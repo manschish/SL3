@@ -1,0 +1,3 @@
+[submodule "dyamn"]
+	path = dyamn
+	url = git@github.com:manschish/dyamn.git
